@@ -10,9 +10,9 @@ I'm a MERN Stack Developer and a BSc Physics graduate who transitioned into web 
 
 Languages: C, Java ,JavaScript, TypeScript
 
-Frontend: HTML, CSS, Bootstarp, JavaScript, React.js, Redux, Redux Toolkit, TypeScript, Tailwind CSS.
+Frontend: HTML, CSS, Bootstarp, JavaScript, React.js, Redux, Redux Toolkit, Next.js, TypeScript, Tailwind CSS.
 
-Backend: Node.js, Express.js, MongoDB, TypeScript, PostgresSQL, RESTful APIs.
+Backend: Node.js, Express.js, Nest.js, MongoDB, TypeScript, PostgresSQL, RESTful APIs.
 
 Tools & Technologies: Git, GitHub, Firebase, AWS, Figma, Postman, Leetcode, Nginx.
 
